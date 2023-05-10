@@ -13,9 +13,9 @@ const Header = () => {
       >
         <div className="dib w-25 v-mid">
           <Link to={siteUrl} className="link dim">
-            <picture>
+            {/* <picture>
               <img className="dib w3 h3 br-100" alt="logo" src={logo} />
-            </picture>
+            </picture> */}
           </Link>
         </div>
         <div className="dib w-75 v-mid tr">
